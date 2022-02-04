@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+    background-color: blueviolet;
+}
+
+h1{
+    text-align: center;
+    text-decoration: chartreuse;
+    height: 10%;
+    width: 10%;
+}
